@@ -425,7 +425,6 @@ int main() {
     return EXIT_SUCCESS;
 }
 
-
 // Add file with users. Add method to read it and update
 
 // Add database file
